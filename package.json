@@ -1,0 +1,21 @@
+{
+  "name": "nursing-lab-checkoff-tracker-webapp",
+  "version": "1.0.0",
+  "description": "Static, local-first study webapp for nursing students tracking skills-lab checkoffs. Education only, never clinical advice.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/",
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "nursing",
+    "education",
+    "study-tool",
+    "skills-lab",
+    "checkoff",
+    "local-first"
+  ],
+  "author": "Asdale Dynamics, LLC",
+  "license": "MIT",
+  "private": true
+}
